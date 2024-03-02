@@ -1,0 +1,1 @@
+cd hexo-zh && rmdir /s /q themes\butterfly && git clone -b master git@github.com:jerryc127/hexo-theme-butterfly.git themes/butterfly && rmdir /s /q .deploy_git && cd .. && hexo-en && rmdir /s /q themes\butterfly && git clone -b master git@github.com:jerryc127/hexo-theme-butterfly.git themes/butterfly && rmdir /s /q .deploy_git
