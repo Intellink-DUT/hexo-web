@@ -21,7 +21,6 @@ menu:
   # Links: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
   English: https://Intellink-DUT.github.io/en/ || fas fa-language
-
   # 语言 || fas fa-language:
   #   中文: https://Intellink-DUT.github.io/ || fas fa-c
   #   English: https://Intellink-DUT.github.io/en/ || fas fa-e
@@ -228,7 +227,7 @@ aside:
   hide: false
   button: true
   mobile: true # display on mobile
-  position: left # left or right
+  position: right # left or right
   display:
     archive: true
     tag: true
@@ -656,7 +655,8 @@ text_align_justify: false
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://intellink-01.oss-cn-beijing.aliyuncs.com/images/background.jpg)
+# background: url(https://intellink-01.oss-cn-beijing.aliyuncs.com/images/background.jpg)
+background: url(https://intellink-01.oss-cn-beijing.aliyuncs.com/images/zhuxing-2024-1/ALE01458.jpg)
 
 # Footer Background
 footer_bg: false
