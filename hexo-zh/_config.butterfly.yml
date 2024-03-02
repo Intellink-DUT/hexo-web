@@ -10,20 +10,15 @@ nav:
 
 # Menu 目錄
 menu:
-  首页: / || fas fa-home
-  归档: /archives/ || fas fa-archive
-  标签: /tags/ || fas fa-tags
-  分类: /categories/ || fas fa-folder-open
-  # 清单||fa fa-heartbeat:
-  #   音乐: /music/ || fas fa-music
-  #   照片: /Gallery/ || fas fa-images
-  #   电影: /movies/ || fas fa-video
-  # Links: /link/ || fas fa-link
-  关于: /about/ || fas fa-heart
-  English: https://Intellink-DUT.github.io/en/ || fas fa-language
-  # 语言 || fas fa-language:
-  #   中文: https://Intellink-DUT.github.io/ || fas fa-c
-  #   English: https://Intellink-DUT.github.io/en/ || fas fa-e
+  首页: / || fa-solid fa-home
+  目录 ||fa-solid fa-table:
+    归档: /archives/ || fa-solid fa-archive
+    标签: /tags/ || fa-solid fa-tags
+    分类: /categories/ || fa-solid fa-folder-open
+  友链: /links/ || fa-solid fa-link
+  留言板: /comments/ || fa-solid fa-comments
+  关于: /about/ || fa-solid fa-heart
+  English: https://Intellink-DUT.github.io/en/ || fa-solid fa-language
 
 # Code Blocks (代碼相關)
 # --------------------------------------

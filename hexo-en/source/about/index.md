@@ -24,3 +24,8 @@ If you are an old alumnus and wish to become a regular member, please [registrat
 For enquiries, please email to us: intellink_dut@163.com.
 
 If you are an aerospace enthusiast and you are in Dalian, you are welcome to visit us at any time of the day or night at our beautiful campus.
+
+Website production team: Ruizhe Yang, Tianyang Luo, Yichen Wang, Zijian Yin, Haiyang Shi, etc.
+Technical document consultant: Yuchi Chen.
+Website Template: [Butterfly](https://butterfly-demo-git-fork-intellink-dut-patch-2-myw.vercel.app/)
+Thank you to the author team for their open source efforts!

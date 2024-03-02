@@ -20,3 +20,8 @@ date: 2024-02-29 12:00:00
 咨询请发送邮件至邮箱：intellink_dut@163.com
 
 如果你是个航天爱好者且你在大连，欢迎来到美丽的大工校园与我们交流。
+
+网站制作小组：杨睿哲、罗天旸、王怿辰、殷子健、石海阳等。
+技术文档顾问：陈昱驰。
+网站模板：[Butterfly](https://butterfly-demo-git-fork-intellink-dut-patch-2-myw.vercel.app/)
+感谢作者团队的开源库！

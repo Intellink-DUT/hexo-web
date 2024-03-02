@@ -1,9 +1,10 @@
 ---
-title: weinaweixing
+title: Micronautical Satellites
+author: DUT Intellink (Translated by Haiyang Shi)
 date: 2024-2-27 12:00
 updated:
 tags:
- - micro-and-nano satellite
+ - Micronautical Satellites
  - History
 categories: 
  - Satellite introduction

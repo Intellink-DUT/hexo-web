@@ -1,5 +1,6 @@
 ---
 title: 微纳卫星简介
+author: 智连星宇学社（英版石海阳译）
 date: 2024-2-27 12:00
 updated:
 tags:

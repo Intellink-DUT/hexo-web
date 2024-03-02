@@ -1,5 +1,6 @@
 ---
 title: 大连1号-连理卫星
+author: 智连星宇学社（英版殷子健译）
 date: 2024-2-28 12:00
 updated:
 tags: 

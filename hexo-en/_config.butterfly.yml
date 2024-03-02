@@ -11,19 +11,14 @@ nav:
 # Menu 目錄
 menu:
   Home: / || fas fa-home
-  Archives: /archives/ || fas fa-archive
-  Tags: /tags/ || fas fa-tags
-  Categories: /categories/ || fas fa-folder-open
-  # 清单||fa fa-heartbeat:
-  #   音乐: /music/ || fas fa-music
-  #   照片: /Gallery/ || fas fa-images
-  #   电影: /movies/ || fas fa-video
-  # Links: /link/ || fas fa-link
+  Catalog ||fa-solid fa-table:
+    Archives: /archives/ || fas fa-archive
+    Tags: /tags/ || fas fa-tags
+    Categories: /categories/ || fas fa-folder-open
+  Links: /links/ || fa-solid fa-link
+  Comments: /comments/ || fas fa-comments
   About Us: /about/ || fas fa-heart
   中文: https://Intellink-DUT.github.io/ || fas fa-language
-  # Language || fas fa-language:
-  #   中文: https://Intellink-DUT.github.io/ || fas fa-c
-  #   English: https://Intellink-DUT.github.io/en/ || fas fa-e
 
 # Code Blocks (代碼相關)
 # --------------------------------------

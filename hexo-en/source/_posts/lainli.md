@@ -1,5 +1,6 @@
 ---
-title: lianli-1
+title: Dalian 1-Lianli Satellite
+author: DUT Intellink (Translated by Zijian Yin)
 date: 2024-3-1 21:00
 updated:
 tags: 
