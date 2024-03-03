@@ -1,6 +1,5 @@
 ---
 title: Micronautical Satellites
-author: DUT Intellink (Translated by Haiyang Shi)
 date: 2024-2-27 12:00
 updated:
 tags:
@@ -64,3 +63,5 @@ Micro-nano-satellites refer to satellites weighing 10 kg to 100 kg. Compared wit
 ![Electronic surveillance -- HawEye360](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/HawEye360.png)
 
 ![High-speed Internet communication - SPACE X](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/SpaceX.jpg)
+
+(Translated by Haiyang Shi)

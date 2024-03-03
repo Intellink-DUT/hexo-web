@@ -1,6 +1,5 @@
 ---
 title: Dalian 1-Lianli Satellite [Document] 
-author: DUT Intellink (Translated by Yichen Wang)
 date: 2024-3-3 12:00
 updated:
 tags: 
@@ -285,3 +284,5 @@ HAN推进具有绿色无毒、能量高、可实现预包装（免现场加注�
 **Chief Commander**: Xiaozhou Yu, doctor of Engineering, is a professor at the School of Mechanics and Aerospace of Dalian University of Technology. His main research interests include CubeSats, spacecraft system engineering, and advanced components for CubeSats. At present, his team is the only team in the world whose CubeSats has been carried by both American Cygnus and Chinese Tianzhou, and has been to both the International Space Station and the Chinese Space Station.
 
 ![微纳卫星与先进推进技术研究团队部分成员](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/%E5%BE%AE%E7%BA%B3%E5%8D%AB%E6%98%9F%E4%B8%8E%E5%85%88%E8%BF%9B%E6%8E%A8%E8%BF%9B%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E5%9B%A2%E9%98%9F%E9%83%A8%E5%88%86%E6%88%90%E5%91%98.jpg)
+
+(Translated by Yichen Wang)

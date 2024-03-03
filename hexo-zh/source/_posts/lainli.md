@@ -1,6 +1,5 @@
 ---
 title: 大连1号-连理卫星
-author: 智连星宇学社（英版殷子健译）
 date: 2024-2-28 12:00
 updated:
 tags: 
@@ -106,6 +105,8 @@ abcjs:
 ![测控站对大连1号—连理卫星进行测控](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/%E6%B5%8B%E6%8E%A7%E7%AB%99%E5%AF%B9%E5%A4%A7%E8%BF%9E1%E5%8F%B7%E2%80%94%E8%BF%9E%E7%90%86%E5%8D%AB%E6%98%9F%E8%BF%9B%E8%A1%8C%E6%B5%8B%E6%8E%A7.jpg)
 
 ![大连理工大学主校区图片](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli/DUT.jpeg)
+
+（英语版殷子健译）
 
 <!-- ## 参考链接
 

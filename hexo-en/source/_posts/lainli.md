@@ -1,6 +1,5 @@
 ---
 title: Dalian 1-Lianli Satellite
-author: DUT Intellink (Translated by Zijian Yin)
 date: 2024-3-1 21:00
 updated:
 tags: 
@@ -113,3 +112,5 @@ https://mp.weixin.qq.com/s/IuNXOP3v3Aq4dfPBCN-9hg
 https://mp.weixin.qq.com/s/N178oKQqvC8tiEIEBedkEg
 
 [Separation from Cargo Spacecraft！The release of the Dalian 1-Lianli Satellite in orbit was a complete success！](https://mp.weixin.qq.com/s/kkMwnnvfftCbxcfsOopTZQ) -->
+
+(Translated by Zijian Yin)

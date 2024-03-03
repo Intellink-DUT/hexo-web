@@ -1,6 +1,5 @@
 ---
 title: 微纳卫星简介
-author: 智连星宇学社（英版石海阳译）
 date: 2024-2-27 12:00
 updated:
 tags:
@@ -64,3 +63,5 @@ abcjs:
 ![电子侦察—HawEye360](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/HawEye360.png)
 
 ![高速互联网通讯—SPACE X](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/microsatellite_inf/SpaceX.jpg)
+
+（英语版石海阳译）
