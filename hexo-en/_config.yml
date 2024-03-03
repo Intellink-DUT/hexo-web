@@ -110,7 +110,6 @@ pagination_dir: page
 include:
 exclude: 
 ignore: 
- - source/
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
