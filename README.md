@@ -43,10 +43,6 @@
 
 新增markdown文档添加至位置**hexo-XX -> source -> _posts**。
 
-### 添加博客
-
-修改位置在**hexo-XX -> source -> _posts**中的markdown文档即可。
-
 ### 网站预览
 
 运行**preview.bat**文件，点击cmd中最后带有下划线的链接 [http://localhost:4000/](http://localhost:4000/) 。
