@@ -64,8 +64,11 @@
 ### 代码结构
 
 Hexo网站框架配置修改文件是_config.yml
+
 Butterfly网站主题配置修改文件是_config.butterfly.yml
+
 搭建网站所需资源见文件夹:source
+
 其他的文件夹默认不需要调整。
 
 ## 发展目标
