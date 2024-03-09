@@ -61,6 +61,13 @@
 场景：是本地完成过一次clone操作，github库被变动，本地需要更新。
 运行**refresh.bat**文件，出现“按任意键退出”说明运行成功。
 
+### 代码结构
+
+Hexo网站框架配置修改文件是_config.yml
+Butterfly网站主题配置修改文件是_config.butterfly.yml
+搭建网站所需资源见文件夹:source
+其他的文件夹默认不需要调整。
+
 ## 发展目标
 
 1、智连星宇社团信息网站
