@@ -64,20 +64,20 @@ abcjs:
 
 ### 姿态控制分系统
 
-![姿态控制分系统组成](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/1-zitai.png)
+<!-- ![姿态控制分系统组成](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/1-zitai.png) -->
 
 * 轨道测量由导航接收机提供导航位速信息(位置精度5m，速度精度0.1m/s)；
 * 姿态测量部件包括磁强计、MEMS陀螺仪、数字太阳敏感器(精度0.5°)、光纤陀螺(零偏稳定性1.5°/h)、星敏感器(定姿精度5″)；
 * 中心控制单元与综合电子共用计算机，负责统一调度控制算法、任务流程、数据接口和时序等，控制频率4Hz；
 * 执行机构包括反作用飞轮(最大力矩2.22mNm)、磁力矩器(最大磁矩1Am²)、推进系统(比冲0.5N，总冲600Ns)。
 
-![卫星工作模式](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/2-zitai.png)
+<!-- ![卫星工作模式](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/2-zitai.png) -->
 
 卫星的工作模式主要有箭上模式、星箭分离模式、速度阻尼模式、在轨待机模式、业务模式、轨控模式、安全模式7个工作模式；业务模式细化为推扫成像、凝视成像模式、凝视数传模式、AI图像识别模式以及数据压缩模式；当满足模式切换条件时，卫星可自主进行模式跳转，在各个模式跳转过程中，卫星能够完成各种工况下的自主配置，从而实现卫星从发射到在轨执行各种业务的稳定运行。
 
 ### 综合电子分系统
 
-![综合电子分系统](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/3-zonghedianzi.png)
+<!-- ![综合电子分系统](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/3-zonghedianzi.png) -->
 
 主要完成星务管理、整星时统管理、姿态控制运算、测控通信及有效载荷任务的控制管理。
 
@@ -90,7 +90,7 @@ abcjs:
 
 ### 测控数传分系统
 
-![测控和数传原理示意图](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/5-shuchuan.png)
+<!-- ![测控和数传原理示意图](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/5-shuchuan.png) -->
 
 采用X频段测控和数传一体化设计，降低系统的体积、重量和功耗。
 
@@ -100,11 +100,11 @@ abcjs:
 * 遥控遥测采用BPSK加直序扩频方式；
 * 数传采用QPSK方式，速率400Mbps。
 
-![测控数传一体机](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/4-shuchuan.png)
+<!-- ![测控数传一体机](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/4-shuchuan.png) -->
 
 ### 电源分系统
 
-![电源分系统示意图](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/6-dianyuan.png)
+<!-- ![电源分系统示意图](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/6-dianyuan.png) -->
 电源分系统示意图
 
 电源分系统由太阳电池阵、锂离子蓄电池组和电源控制器组成。母线电压范围9V～12.3V。采用限压式的充电方式，太阳供电与充电功能合一。
@@ -119,7 +119,7 @@ abcjs:
 
 ### 载荷分系统
 
-![光学相机结构示意图](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/7-guangxuexiangji.png)
+<!-- ![光学相机结构示意图](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/7-guangxuexiangji.png) -->
 光学相机结构示意图
 
 相机（不含对外接口）主要由反射镜组件、校正镜、主承力结构以及主背板等组成。
@@ -136,7 +136,7 @@ abcjs:
 
 ### 试验载荷分系统
 
-![一体姿态测量单元（AMU）与OpenHarmony](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/8-zitai.png)
+<!-- ![一体姿态测量单元（AMU）与OpenHarmony](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/8-zitai.png) -->
 一体姿态测量单元（AMU）与OpenHarmony
 
 一体姿态测量单元（AMU）采用开源鸿蒙航天实时操作系统，内部集成太阳敏感器、三轴陀螺仪、三轴磁强计、温度传感器以及高性能处理器，可以实时测量航天器的三轴姿态信息，并进一步实现低精度的姿态确定功能。
@@ -148,8 +148,8 @@ abcjs:
 * 供电电压：5V±5%；
 * 数据更新率：≥10Hz。
 
-![推进器结构示意图-1](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/9-tuijinqi.png)
-![推进器结构示意图-2](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/10-tuinjinqi.png)
+<!-- ![推进器结构示意图-1](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/9-tuijinqi.png) -->
+<!-- ![推进器结构示意图-2](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/10-tuinjinqi.png) -->
 
 HAN推进具有绿色无毒、能量高、可实现预包装（免现场加注）等优点。推进系统采用模块化设计，集成了包括推进剂贮箱、电磁阀、压力传感器等。系统高度集成在1U空间内。
 
@@ -179,9 +179,9 @@ HAN推进具有绿色无毒、能量高、可实现预包装（免现场加注�
 
 ### 部署器各动作时机
 
-![部署器结构示意图-1](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/13-UMSD.jpg)
-![部署器结构示意图-2](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/13-2-UMSD.png)
-![部署器结构示意图-3](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/13-3-UMSD.png)
+<!-- ![部署器结构示意图-1](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/13-UMSD.jpg) -->
+<!-- ![部署器结构示意图-2](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/13-2-UMSD.png) -->
+<!-- ![部署器结构示意图-3](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/13-3-UMSD.png) -->
 
 * 发射段：部署器承受火箭加速度及振动引起的载荷作用。
 * 停靠段：为卫星提供存储空间以及合适的空间环境，包括温度控制及空间防护。分离控制盒提供配电、温度模拟量采集转发等功能。
@@ -189,8 +189,8 @@ HAN推进具有绿色无毒、能量高、可实现预包装（免现场加注�
 
 ### 与货船接口设计
 
-![货运飞船结构示意图-1](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/15-tianzhou.png)
-![货运飞船结构示意图-2](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/16-tainzhou.png)
+<!-- ![货运飞船结构示意图-1](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/15-tianzhou.png) -->
+<!-- ![货运飞船结构示意图-2](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/16-tainzhou.png) -->
 
 * 安装位置需求：后锥段；
 * 电气接口：提供1路100V供电，稳态功率50W；
@@ -198,7 +198,7 @@ HAN推进具有绿色无毒、能量高、可实现预包装（免现场加注�
 * 分离电压：0~5V；脉宽：200ms；脉冲间隔：2s；
 * 在轨操作需求：无需航天员在轨操作。
 
-![部署器工作原理图](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/17-bushuqi.jpg)
+<!-- ![部署器工作原理图](https://intellink-01.oss-cn-beijing.aliyuncs.com/images/lianli_detailed/17-bushuqi.jpg) -->
 
 ### 空间站在轨飞行
 
